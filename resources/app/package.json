@@ -1,0 +1,9 @@
+{
+  "name": "epimap2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
